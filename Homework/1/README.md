@@ -3,7 +3,7 @@
 ## How to run?
 
 ```
-g++ -std=c++17 main.cpp -o main && ./main.exe
+g++ -std=c++17 main.cpp method/problem.cpp -o main && ./main.exe
 ```
 
 ## Output
