@@ -8,5 +8,6 @@ using namespace std;
 
 void printString(string word);
 void getMultiplicationTable(int startNumber, int endNumber);
+void checkIsPalindrome(string str);
 
 #endif
